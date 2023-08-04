@@ -1,2 +1,1 @@
-# softreset
-A soft CSS reset.
+# CSS Total Reset
