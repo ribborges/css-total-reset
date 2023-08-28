@@ -1,0 +1,26 @@
+{
+  "name": "css-total-reset",
+  "version": "0.0.2",
+  "description": "Css Total Reset",
+  "main": "reset.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribborges/css-total-reset.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "scss",
+    "normalize",
+    "reboot"
+  ],
+  "author": "Richard (richardborges.vercel.app)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ribborges/css-total-reset/issues"
+  },
+  "homepage": "https://github.com/ribborges/css-total-reset#readme"
+}
